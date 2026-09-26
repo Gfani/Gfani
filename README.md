@@ -87,15 +87,7 @@ shipping costs and tracking packages.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gfani&show_icons=true&rank_icon=default&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gfani&layout=compact&theme=github_dark" />
-</p>
+[![Gfani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gfani&show_icons=true&theme=transparent&include_all_commits=true)](https://github.com/Gfani/github-readme-stats)
 
 ## 🔥 Contribution Streak
 
