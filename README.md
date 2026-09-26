@@ -89,11 +89,16 @@ shipping costs and tracking packages.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gfani&show_icons=true&rank_icon=default&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gfani&show_icons=true&rank_icon=default&theme=github_dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gfani&layout=compact&theme=github_dark" height="180"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gfani&layout=compact&theme=github_dark)
+## 🔥 Contribution Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Gfani&theme=dark)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Gfani&theme=dark" height="180"/>
+</p>
 ---
 
 ## 🤝 Connect With Me
