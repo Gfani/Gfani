@@ -86,9 +86,10 @@ shipping costs and tracking packages.
 - Software Architecture
 
 ---
+
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gfani&show_icons=true&theme=github_dark)
+![Gfani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gfani&show_icons=true&rank_icon=default&theme=github_dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gfani&layout=compact&theme=github_dark)
 
